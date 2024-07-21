@@ -42,10 +42,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaancakr&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   </a>
 </div>
-
----
-
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)

@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Kaan and I'm a Front-End Delevoper</h2>
 
 <div align="center">
-  <img src="[https://giphy.com/embed/Yfl7CS7vQqnebA69aH](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGcyaThldnp6dTB2a2tsd2ZodWV5bDBxcDlsc2JxbzN6YXY1N3drMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif)" width="100%" height="100%"/>
+  <img src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH" width="100%" height="100%"/>
 </div>
 
 ###

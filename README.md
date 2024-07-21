@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Kaan and I'm a Mobile Delevoper</h2>
 
-### :woman_technologist: &nbsp;About Me :
+### 👨‍💻: &nbsp;About Me :
 
 - 🔭 I’m working as a Software Engineer and contributing as mobile developer for building mobile applications.
 - 🌱 Exploring Technical Content Writing.

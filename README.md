@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is Kaan and I'm a Front-End Delevoper</h2>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Yfl7CS7vQqnebA69aH" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH">via GIPHY</a></p>
+<div align="center">
+  <img src="https://giphy.com/embed/Yfl7CS7vQqnebA69aH" width="100%" height="100%"></img></div><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH"/>
+</div>
 
 ###
 

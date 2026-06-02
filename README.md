@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kaan and I'm a Mobile Developer</h2>
+<h2 align="left">Hi 👋! My name is Kaan and I'm a Full-Stack Developer</h2>
 
 ### 👨‍💻: &nbsp;About Me :
 

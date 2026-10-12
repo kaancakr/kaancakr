@@ -1,41 +1,35 @@
-<h2 align="left">Hi! 👋 My name is Kaan and I'm a Full-Stack Developer</h2>
+## Hi, I'm Kaan 👋
 
-### 👨‍💻: &nbsp;About Me :
+Software engineer at [**ApyGuard**](https://www.apyguard.com), where we build automated API security tooling. I mostly work on **mobile** (React Native / Expo, SwiftUI) and **front-end** (Next.js, TypeScript), and I like owning a product end to end — from the Django API to the app on the phone.
 
-- 🔭 I’m working as a Software Engineer and contributing as a mobile developer for building mobile applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time, I solve problems on my brilliant projects(!) and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kaan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eren-kaan-%C3%A7ak%C4%B1r-0b4312229/)
+[Portfolio](https://kaancakr.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/eren-kaan-%C3%A7ak%C4%B1r-0b4312229/)
 
----
+### 🔨 At ApyGuard
 
-### 🛠 &nbsp;Languages and Tools :
+API security platform: DAST scanning and OpenAPI analysis. Open-source pieces:
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-</p>
+- [`apyguard_openapi_analysis`](https://github.com/ApyGuard/apyguard_openapi_analysis) — GitHub Action that reviews OpenAPI specs for best practices, validation and documentation quality
+- [`apyguard-action`](https://github.com/ApyGuard/apyguard-action) — trigger ApyGuard DAST scans from CI and gate merges on severity
+- [`ApyGuard-Benchmarks`](https://github.com/ApyGuard/ApyGuard-Benchmarks) — intentionally vulnerable, auth-first API services for evaluating security scanners
 
----
+### 🌍 Featured: QuakePath
 
-### 🔥 &nbsp; My Stats :
-<div style="display: flex; justify-content: center; align-items:center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaancakr&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  </a>
-</div>
+[**QuakePath**](https://github.com/kaancakr/QuakePath) is an earthquake emergency app: SOS alerts on a live Mapbox map, routes to safe assembly points, and phone-to-phone messaging over a **Bluetooth Low Energy mesh** when the cellular network is down. [Project website →](https://kaancakr.github.io/quake-path/)
+
+### 📱 Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [QuakePath](https://github.com/kaancakr/QuakePath) | Earthquake emergency app with a live SOS map and offline BLE mesh messaging | Expo, React Native, Mapbox, BLE, Firebase |
+| [quake-path](https://github.com/kaancakr/quake-path) | Project website for QuakePath · [live](https://kaancakr.github.io/quake-path/) | Next.js, Tailwind CSS, Framer Motion |
+| [portfolio](https://github.com/kaancakr/portfolio) | Portfolio you navigate with a 3D mechanical keyboard · [live](https://kaancakr.github.io/portfolio/) | Next.js, three.js, React Three Fiber |
+| [News-App](https://github.com/kaancakr/News-App) | News reader with search, filters and offline favorites | SwiftUI, Core Data, Moya |
+| [Currency-Track-App](https://github.com/kaancakr/Currency-Track-App) | Live exchange rates, watchlist and per-user favorites | Next.js, Flask, PostgreSQL, Redis |
+| [Onyx Code](https://github.com/kaancakr/Questionnaire-App) | Learn programming and algorithms through interactive Q&A | SwiftUI, Firebase |
+| [Color Harmony](https://github.com/kaancakr/Color-Harmony-App) | Explore, generate and save color palettes | React Native, Expo, Firebase |
+
+### 🛠 Tools I use
+
+- **Mobile:** React Native · Expo · Swift · SwiftUI · WidgetKit
+- **Web:** TypeScript · React · Next.js · Tailwind CSS
+- **Backend:** Python · Django · Flask · Node.js · PostgreSQL · Firebase
